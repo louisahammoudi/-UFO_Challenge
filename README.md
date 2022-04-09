@@ -2,13 +2,12 @@
 
 **Overview**
 
-Purpose of this challenge was to assemble a web page whre you could filter UFO sightings based on date, location(city and state), and shape of the possible sighting. The filter 
-is automatically updated when you enter in paramaters that you wish to view. 
+The Purpose of the challenge is to assemble a web page where we can filter UFO sightings based on date, location(city and state), and shape of the possible sighting. The filter is automatically updated when we enter in paramaters that want
 
 
 **Results**
 
-To complete a search, simply add in the parameters that you would like to view in the designated search field. Shown below is a search of January 10th, 2010. The other filters listed are place holders and do not filter until something is typed into the field. 
+To complete a search, we add in the parameters that we want to view in the designated search field. Shown below is a search of January 10th, 2010. The other filters listed are place holders and do not filter until something is typed into the field. 
 
 
 <img width="938" alt="Search_demo" src="https://user-images.githubusercontent.com/90280238/144755685-e07fadb2-7aee-4a21-8098-dfcd90d86ca0.PNG">
